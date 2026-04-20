@@ -4,7 +4,7 @@ public abstract class User {
     private String name;
     private String contactInfo;
 
-    // ✅ Static counter (Task 6)
+    // ✅ Static counter (Task 6) 
     private static int totalUsers = 0;
 
     // Default Constructor
